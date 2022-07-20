@@ -1,0 +1,23 @@
+body {
+  background-color: #daaa0e; }
+
+nav a {
+  color: white; }
+
+nav li {
+  color: white; }
+
+main {
+  background-color: white;
+  color: #313130; }
+  main section {
+    background-color: #d4d5d8; }
+    span{
+      font-family: 'Sacramento', cursive;
+  }
+  main button {
+    background-color: #daaa0e;
+    color: white; }
+
+footer {
+  color: #313130; }

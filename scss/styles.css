@@ -1,0 +1,103 @@
+body {
+  background-color: rgb(218, 170, 14);
+}
+
+nav a {
+  color: rgb(255, 255, 255);
+}
+nav li {
+  color: rgb(255, 255, 255);
+}
+
+main {
+  background-color: rgb(255, 255, 255);
+  color: rgb(49, 49, 48);
+}
+main section {
+  background-color: rgb(212, 213, 216);
+}
+main button {
+  background-color: rgb(218, 170, 14);
+  color: rgb(255, 255, 255);
+}
+
+footer {
+  color: rgb(49, 49, 48);
+}
+
+/* Nest Nav */
+body {
+  background-color: rgb(218, 170, 14);
+}
+
+nav a {
+  color: rgb(255, 255, 255);
+}
+nav li {
+  color: rgb(255, 255, 255);
+}
+
+main {
+  background-color: rgb(255, 255, 255);
+  color: rgb(49, 49, 48);
+}
+main section {
+  background-color: rgb(212, 213, 216);
+}
+main button {
+  background-color: rgb(218, 170, 14);
+  color: rgb(255, 255, 255);
+}
+
+footer {
+  color: rgb(49, 49, 48);
+}
+
+nav li {
+  display: inline-block;
+  text-decoration: none;
+}
+
+/* Variables */
+/* Nest Main */
+body {
+  font-family: Arial, Helvetica, Sans-Serif;
+}
+
+main {
+  min-height: 535px;
+  min-width: 700px;
+  font-family: Arial, Helvetica, Sans-Serif;
+  display: flex;
+  height: 500px;
+  justify-content: space-between;
+  margin: 0 auto;
+  padding: 1em;
+}
+main section {
+  width: 1500px;
+}
+main section {
+  font-family: "Sacramento", cursive;
+}
+main section #intro-text {
+  text-align: center;
+  padding-top: 150px;
+}
+main img {
+  width: 100%;
+  height: 100%;
+}
+main button {
+  border: 0;
+  border-radius: none;
+  cursor: pointer;
+  width: 7em;
+  height: 2.5em;
+  font-size: 1rem;
+}
+
+footer {
+  padding-left: 50px;
+  padding-top: 30px;
+}/*# sourceMappingURL=styles.css.map */

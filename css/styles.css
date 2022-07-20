@@ -1,0 +1,78 @@
+body {
+  background-color: #daaa0e; }
+
+nav a {
+  color: white; }
+
+nav li {
+  color: white; }
+
+main {
+  background-color: white;
+  color: #313130; }
+  main section {
+    background-color: #d4d5d8; }
+  main button {
+    background-color: #daaa0e;
+    color: white; }
+
+footer {
+  color: #313130; }
+
+/* Nest Nav */
+body {
+  background-color: #daaa0e; }
+
+nav a {
+  color: white; }
+
+nav li {
+  color: white; }
+
+main {
+  background-color: white;
+  color: #313130; }
+  main section {
+    background-color: #d4d5d8; }
+  main button {
+    background-color: #daaa0e;
+    color: white; }
+
+footer {
+  color: #313130; }
+
+nav li {
+  display: inline-block;
+  text-decoration: none; }
+
+/* Variables */
+/* Nest Main */
+main {
+  min-height: 535px;
+  min-width: 700px;
+  font-family: Arial, Helvetica, Sans-Serif;
+  display: flex;
+  height: 500px;
+  justify-content: space-between;
+  margin: 0 auto;
+  padding: 1em; }
+  main section {
+    width: 1500px; }
+  main #intro-text {
+    text-align: center;
+    padding-top: 150px; }
+  main img {
+    width: 100%;
+    height: 100%; }
+  main button {
+    border: 0;
+    border-radius: none;
+    cursor: pointer;
+    width: 7em;
+    height: 2.5em;
+    font-size: 1rem;
+  }
+  footer {
+    color: #313130;
+    padding-left: 50px;
+    padding-top: 30px; }
